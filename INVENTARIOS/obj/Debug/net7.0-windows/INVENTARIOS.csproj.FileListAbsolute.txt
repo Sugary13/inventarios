@@ -1,0 +1,34 @@
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\bin\Debug\net7.0-windows\INVENTARIOS.exe
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\bin\Debug\net7.0-windows\INVENTARIOS.deps.json
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\bin\Debug\net7.0-windows\INVENTARIOS.runtimeconfig.json
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\bin\Debug\net7.0-windows\INVENTARIOS.dll
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\bin\Debug\net7.0-windows\INVENTARIOS.pdb
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.csproj.AssemblyReference.cache
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.Form1.resources
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.csproj.GenerateResource.cache
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.AssemblyInfoInputs.cache
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.AssemblyInfo.cs
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.csproj.CoreCompileInputs.cache
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.dll
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\refint\INVENTARIOS.dll
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.pdb
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.genruntimeconfig.cache
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\ref\INVENTARIOS.dll
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.Login.resources
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.FrmEstados.resources
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\Interop.DataSystem.dll
+D:\PROYECTOS VISUAL STUDIO\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.csproj.ResolveComReference.cache
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.csproj.AssemblyReference.cache
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.csproj.ResolveComReference.cache
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.FrmEstados.resources
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.Login.resources
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.Form1.resources
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.csproj.GenerateResource.cache
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.AssemblyInfoInputs.cache
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.AssemblyInfo.cs
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.dll
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\refint\INVENTARIOS.dll
+C:\Users\Carlo\OneDrive\Documentos\INVENTARIOS\obj\Debug\net7.0-windows\INVENTARIOS.pdb
